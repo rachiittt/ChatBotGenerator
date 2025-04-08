@@ -1,9 +1,9 @@
 import React from 'react'
 
-const About = () => {
+const bout = () => {
   return (
     <div>This is a About page</div>
   )
 }
 
-export default About
+export default bout
